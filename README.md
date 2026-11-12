@@ -2,4 +2,4 @@
 
 > look inside
 
-> no wires
+> it's all hydraulics
